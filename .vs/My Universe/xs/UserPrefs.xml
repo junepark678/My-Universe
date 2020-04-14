@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{331BBC62-0414-356E-6FAE-1E2301038F08}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sun.cs">
+    <Files>
+      <File FileName="Assets/planet.cs" Line="13" Column="1" />
+      <File FileName="Assets/Rotater.cs" Line="21" Column="12" />
+      <File FileName="Assets/GameManager.cs" Line="22" Column="18" />
+      <File FileName="Assets/Follow.cs" Line="18" Column="48" />
+      <File FileName="Assets/Sun.cs" Line="10" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My Universe" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Sun.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0ca70bb8-a435-45dc-8b43-7cc327f98f88" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
