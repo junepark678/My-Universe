@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class Sun : MonoBehaviour
 {
+    public int speed = 50;
+
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(-100*Time.deltaTime, 0, 0);
+        transform.Translate(-speed*Time.deltaTime, 0, 0);
     }
 }
